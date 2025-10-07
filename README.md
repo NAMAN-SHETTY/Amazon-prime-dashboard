@@ -81,5 +81,6 @@ This dashboard is designed to empower:
 ## Author
 - **Name**: Naman Shetty
 - **Email**: shettynaman63@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/naman-shetty-213898215/
+- **LinkedIn**: (https://www.linkedin.com/in/naman-vijay-kumar-shetty-213898215/)
+- 
 
