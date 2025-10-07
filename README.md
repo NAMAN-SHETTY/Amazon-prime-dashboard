@@ -60,7 +60,7 @@ This dashboard is designed to empower:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/prime-video-dashboard.git
+   git clone https://github.com/NAMAN-SHETTY/prime-video-dashboard.git
 
 # Insights Summary
 
